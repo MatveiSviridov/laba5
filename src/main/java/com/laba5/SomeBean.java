@@ -1,9 +1,9 @@
 package com.laba5;
 
 public class SomeBean {
-    //@AutoInjectable
+    @AutoInjectable
     private SomeInterface field1;
-    //@AutoInjectable
+    @AutoInjectable
     private SomeOtherInterface field2;
 
 
